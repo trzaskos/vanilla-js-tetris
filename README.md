@@ -73,6 +73,10 @@ This project demonstrates several key web development concepts:
 
 No build process or dependencies required!
 
+## Known Bugs
+
+- Tetromino pieces don't fully reach the right edge of the game board. This is a known limitation in the current implementation that will be addressed in future versions.
+
 ## 📝 Future Improvements
 
 - [ ] Mobile touch controls
