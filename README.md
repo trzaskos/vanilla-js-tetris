@@ -84,7 +84,7 @@ No build process or dependencies required!
 
 ## 📷 Screenshots
 
-_(You can add more screenshots of your game here)_
+![Tetris Game Screenshot](screenshots/game-preview.png)
 
 ## 📄 License
 
