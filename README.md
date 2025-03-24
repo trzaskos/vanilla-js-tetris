@@ -60,7 +60,7 @@ This project demonstrates several key web development concepts:
 1. Clone this repository:
 
    ```
-   git clone https://github.com/yourusername/vanilla-js-tetris.git
+   git clone https://github.com/trzaskos/vanilla-js-tetris.git
    ```
 
 2. Navigate to the project directory:
