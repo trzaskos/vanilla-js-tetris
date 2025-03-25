@@ -26,18 +26,6 @@ You can play the game directly [here](https://vanilla-js-tetris.vercel.app) (add
 - CSS3
 - No external libraries or frameworks
 
-## 🎯 What I Learned
-
-This project demonstrates several key web development concepts:
-
-- DOM manipulation
-- Canvas API for game rendering
-- Game loop implementation
-- Collision detection algorithms
-- Matrix transformations for piece rotation
-- Event handling for keyboard controls
-- Game state management
-
 ## 🕹️ How to Play
 
 ### Controls
