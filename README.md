@@ -6,7 +6,7 @@ A classic Tetris game implementation using pure JavaScript, HTML5 Canvas, and CS
 
 ## 🎮 Demo
 
-You can play the game directly [here](#) (add your deployment link once available).
+You can play the game directly [here](https://vanilla-js-tetris.vercel.app) (add your deployment link once available).
 
 ## ✨ Features
 
@@ -86,9 +86,15 @@ No build process or dependencies required!
 - [ ] Hold piece functionality
 - [ ] Different difficulty modes
 
-## 📷 Screenshots
+## 🤝 Contributing
 
-![Tetris Game Screenshot](screenshots/game-preview.png)
+Contributions are welcome! Feel free to open an issue or submit a pull request.
+
+1. Fork the project
+2. Create your feature branch (`git checkout -b feature/AmazingFeature`)
+3. Commit your changes (`git commit -m 'Add some AmazingFeature'`)
+4. Push to the branch (`git push origin feature/AmazingFeature`)
+5. Open a Pull Request
 
 ## 📄 License
 
@@ -102,3 +108,17 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ---
 
 Feel free to fork this project and make your own improvements!
+
+## 📧 Contact
+
+Maryele Trzaskos Gruber - [maryele.trzaskos@gmail.com](mailto:maryele.trzaskos@gmail.com)
+
+Project Link: [https://github.com/trzaskos/weather-now](https://github.com/trzaskos/weather-now)
+
+## ☕ Support
+
+If you find this project helpful, consider buying me a coffee!
+
+<a href="https://www.buymeacoffee.com/trzaskos" target="_blank">
+  <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" >
+</a>
