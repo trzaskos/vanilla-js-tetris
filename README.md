@@ -101,7 +101,7 @@ Feel free to fork this project and make your own improvements!
 
 Maryele Trzaskos Gruber - [maryele.trzaskos@gmail.com](mailto:maryele.trzaskos@gmail.com)
 
-Project Link: [https://github.com/trzaskos/weather-now](https://github.com/trzaskos/weather-now)
+Project Link: [https://github.com/trzaskos/vanilla-js-tetris](https://github.com/trzaskos/vanilla-js-tetris)
 
 ## ☕ Support
 
